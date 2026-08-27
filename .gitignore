@@ -1,0 +1,7 @@
+﻿# OS / secrets
+.DS_Store
+Thumbs.db
+.env
+.env.*
+docs/
+*.pdf
